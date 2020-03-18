@@ -1,7 +1,7 @@
-# PHISHCAN v1.1
+## PHISHCAN v1.1
 ### Don't copy the code
-## Author: https://github.com/INDIATECHYOUTUBE/PhishCan## , nerd! 
-# My Youtube : https://www.youtube.com/channel/UCxwRU278xsYp3Y-QHGoMTPw #
+## Author: https://github.com/INDIATECHYOUTUBE/PhishCan##, nerd! 
+### My Youtube : https://www.youtube.com/channel/UCxwRU278xsYp3Y-QHGoMTPw ##
 
 ### Features:
 You can hack 18 popular social accounts
